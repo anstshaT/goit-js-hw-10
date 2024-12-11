@@ -56,12 +56,17 @@ body button {
     font-family: Montserrat, sans-serif;
     font-size: 16px;
     cursor: pointer;
+    transition: background-color 250ms linear;
 }
 
 body button:disabled {
     background-color: #CFCFCF;
     color: #989898;
     cursor: not-allowed;
+}
+
+body button:hover {
+    background-color: #6C8CFF;
 }
 
 .timer {
