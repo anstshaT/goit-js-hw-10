@@ -1,1 +1,1 @@
-{"version":3,"file":"2-snackbar.js","sources":[],"sourcesContent":[],"names":[],"mappings":""}
+{"version":3,"file":"2-snackbar.js","sources":["../src/js/2-snackbar.js"],"sourcesContent":["// Описаний у документації\nimport iziToast from \"izitoast\";\nimport \"izitoast/dist/css/iziToast.min.css\";\n\nconst delayInput = document.querySelector('')"],"names":[],"mappings":"4HAImB,SAAS,cAAc,EAAE"}
